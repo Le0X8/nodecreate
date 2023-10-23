@@ -1,0 +1,30 @@
+{
+  "name": "nodecreate",
+  "version": "0.0.1",
+  "description": "Manage your package.json files",
+  "main": "src/main.js",
+  "bin": {
+    "nodecreate": "bin/nodecreate"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "@Le0X8/nodecreate"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "package.json",
+    "node",
+    "dependency",
+    "dependencies",
+    "cli"
+  ],
+  "author": "LeoX DEV",
+  "license": "MIT",
+  "dependencies": {
+    "ansi-colors": "^4.1.3"
+  }
+}
