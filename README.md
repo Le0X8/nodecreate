@@ -14,12 +14,12 @@ npm create leolesinski@latest <path>
 
 - npm configuration
 - Package name availability check
-- README template
-- License template
-- Directory structure
 
 ### Planned features
 
+- README template
+- License template
+- Directory structure
 - TypeScript support
 - ESLint linting
 - Prettier code formatting
