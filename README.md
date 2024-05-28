@@ -29,3 +29,9 @@ npm create leolesinski@latest <path>
 - GitHub repository setup
 - GitHub Actions
 - VSCode settings
+- SvelteKit support
+- SASS/SCSS support
+- TailwindCSS support
+- Cloudflare Pages integration
+- Cloudflare D1 setup
+- Cloudflare R2 connection
